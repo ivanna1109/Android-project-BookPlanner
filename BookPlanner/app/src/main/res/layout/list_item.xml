@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="800px"
+        android:layout_marginLeft="150px"
+        android:layout_marginRight="150px"
+        android:layout_marginBottom="5dp"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@drawable/edit_text_border"
+        android:elevation="4dp">
+        <TextView
+            android:layout_width="500px"
+            android:layout_height="100px"
+            android:id="@+id/bookInfo"
+            android:layout_marginRight="40dp"
+            android:fontFamily="sans-serif-condensed"/>
+        <ImageView
+            android:id="@+id/header"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/bookicon"
+            app:layout_collapseMode="parallax"/>
+    </androidx.appcompat.widget.Toolbar>
+
+</LinearLayout>

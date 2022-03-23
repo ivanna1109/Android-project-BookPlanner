@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/drawable/book_item.xml" value="0.2520833333333333" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/drawable/buttons.xml" value="0.1671875" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/drawable/edit_text_border.xml" value="0.2328125" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/drawable/menu_buttons.xml" value="0.14739583333333334" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-land/activity_home.xml" value="0.14462081128747795" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-land/activity_main.xml" value="0.17945326278659612" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-land/activity_register.xml" value="0.14462081128747795" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp-land/activity_books_list.xml" value="0.144" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp-land/activity_home.xml" value="0.128125" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp-land/activity_login.xml" value="0.16799999999999998" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp-land/activity_main.xml" value="0.10977242302543508" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp-land/activity_register.xml" value="0.176" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp-land/add_new_book.xml" value="0.2" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp-land/fragment_about_app.xml" value="0.2" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp-land/fragment_information.xml" value="0.11378848728246319" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp-land/fragment_readed_book.xml" value="0.264" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp-land/fragment_reading_book.xml" value="0.144" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp-land/fragment_wish_book.xml" value="0.176" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp-land/list_item.xml" value="0.2" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp-land/wish_book_menu.xml" value="0.152" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp/activity_books_list.xml" value="0.128125" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp/activity_home.xml" value="0.128125" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp/activity_login.xml" value="0.128125" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.107421875" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp/activity_map.xml" value="0.128125" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp/activity_register.xml" value="0.128125" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp/add_new_book.xml" value="0.128125" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp/fragment_about_app.xml" value="0.1328125" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp/fragment_information.xml" value="0.1328125" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp/fragment_readed_book.xml" value="0.176" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp/fragment_reading_book.xml" value="0.128125" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp/fragment_wish_book.xml" value="0.1375" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp/list_item.xml" value="0.128125" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout-sw600dp/wish_book_menu.xml" value="0.16" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/about_app_item.xml" value="0.2504528985507246" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/activity_about_app.xml" value="0.2504528985507246" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/activity_book_list.xml" value="0.159375" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/activity_book_list2.xml" value="0.2006340579710145" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/activity_books_list.xml" value="0.1947463768115942" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/activity_home.xml" value="0.25317028985507245" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/activity_map.xml" value="0.19635416666666666" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/activity_reading.xml" value="0.1765625" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/activity_register.xml" value="0.15104166666666666" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/add_new_book.xml" value="0.1765625" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/fragment_about_app.xml" value="0.2504528985507246" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/fragment_about_app_list.xml" value="0.18072916666666666" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/fragment_book_wish_list.xml" value="0.2006340579710145" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/fragment_book_wish_list_list.xml" value="0.18072916666666666" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/fragment_information.xml" value="0.15897435897435896" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/fragment_readed_book.xml" value="0.17239583333333333" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/fragment_readed_books.xml" value="0.18072916666666666" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/fragment_readed_books_list.xml" value="0.16666666666666666" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/fragment_reading_book.xml" value="0.23020833333333332" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/fragment_reading_books.xml" value="0.2" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/fragment_reading_books_fragments.xml" value="0.18072916666666666" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/fragment_reading_books_fragments_list.xml" value="0.16666666666666666" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/fragment_wish_book.xml" value="0.21822916666666667" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/fragment_wish_books.xml" value="0.18072916666666666" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/fragment_wish_books_list.xml" value="0.16666666666666666" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/list_item.xml" value="0.2115036231884058" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/main_fragment1.xml" value="0.2006340579710145" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/layout/wish_book_menu.xml" value="0.24864130434782608" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/menu/menu_bar.xml" value="0.264" />
+        <entry key="..\:/Treca godina/ZimskiSemestar/RMA/ProjekatAndroid/BookPlanner/app/src/main/res/menu/menu_bar_item.xml" value="0.17708333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

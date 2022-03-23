@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_about_app"
+    android:orientation="vertical"
+    tools:context=".BooksListActivity">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/background"
+        android:elevation="4dp">
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/backButton"
+            android:background="@drawable/arrow_back"/>
+        <ImageView
+            android:id="@+id/header"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/logo"
+            app:layout_collapseMode="parallax"/>
+    </androidx.appcompat.widget.Toolbar>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <fragment android:name="com.example.bookplanner.aboutapp.AboutAppListFragment"
+            android:id="@+id/list_fragment"
+            android:layout_weight="1"
+            android:layout_height="0dp"
+            android:layout_width="match_parent" />
+
+        <fragment android:name="com.example.bookplanner.aboutapp.InformationFragment"
+            android:id="@+id/information_fragment"
+            android:layout_weight="2"
+            android:layout_height="0dp"
+            android:layout_width="match_parent" />
+    </LinearLayout>
+</LinearLayout>

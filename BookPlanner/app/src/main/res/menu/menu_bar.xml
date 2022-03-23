@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/showMap"
+        android:title="Show bookstores on map"
+        app:showAsAction="collapseActionView"/>
+    <item
+        android:id="@+id/music"
+        android:title="@string/string_start_stop_music"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/quote"
+        android:enabled="true"
+        android:title="@string/get_qoute"
+        android:visible="true"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/about_app"
+        android:title="About app" />
+    <item
+        android:id="@+id/logOut"
+        android:title="@string/log_out"
+        app:showAsAction="collapseActionView" />
+</menu>
